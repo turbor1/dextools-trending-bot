@@ -6,6 +6,7 @@ With this software, you can into your token in dextools trending (hot pairs). Th
 
 Easy use.
 
+![dextools gif done](https://github.com/turbor1/dextools-trending-bot/assets/155108454/fd7e8db2-efde-4ee5-bb42-e0b58a1ab0d6)
 
 
 Usage:
@@ -18,4 +19,4 @@ Usage:
 
 Pair appears at hot pairs from 5 to 60 min and will hold on until you turn off the software.
 
-contacts: t.me/gpt_dex
+[contacts: t.me/gpt_dex](t.me/gpt_dex)
