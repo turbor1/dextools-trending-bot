@@ -1,5 +1,5 @@
 # dextools-trending-bot
-Dextools Trending Software || Get HotPairs for your token in Dextools
+Dextools Trending Software || Get HotPairs for your token in Dextools || updated
 
 ## Description:
 With this software, you can into your token in dextools trending (hot pairs). The advantage is that you don't need paid proxy services, and you don't have to pay anyone for trending. Software will use free TorProxy.
